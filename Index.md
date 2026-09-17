@@ -37,6 +37,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Get Equal Substrings Within Budget](./LeetCode/Medium/Get%20Equal%20Substrings%20Within%20Budget) - *Medium*
 - [Find the Difference of Two Arrays](./LeetCode/Easy/Find%20the%20Difference%20of%20Two%20Arrays) - *Easy*
 - [Intersection of Two Arrays II](./LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II) - *Easy*
 - [Base 7](./LeetCode/Easy/Base%207) - *Easy*
